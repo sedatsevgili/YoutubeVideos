@@ -1,7 +1,7 @@
 YoutubeVideos
 =============
 
-Lists watched youtube videos.
+Lists searched youtube videos.
 
 
 NOTE
